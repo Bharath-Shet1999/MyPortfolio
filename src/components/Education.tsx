@@ -53,7 +53,7 @@ const Education = () => {
                 <p className="text-lg text-muted-foreground mb-2">Amazon Web Services</p>
                 
                 <a 
-                  href="#"
+                  href="https://www.credly.com/badges/190c5c31-4998-4a8c-a41d-b936a44beea5/public_url"
                   className="inline-flex items-center text-primary hover:underline mt-2"
                 >
                   View Certificate

@@ -71,12 +71,12 @@ const About = () => {
                   <div>
                     <p className="font-medium">LinkedIn</p>
                     <a 
-                      href="https://bharathks.in.edu"
+                      href="https://www.linkedin.com/in/bharath-shet153"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-primary hover:underline transition-all duration-200"
                     >
-                      bharath.shet.linkedin
+                      Bharath@linkedin
                     </a>
                   </div>
                 </div>
